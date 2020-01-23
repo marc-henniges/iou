@@ -27,6 +27,8 @@
   },
   "homepage": "https://github.com/marc-henniges/iou#readme",
   "dependencies": {
-    "openzeppelin-solidity": "^2.4.0"
+    "chai": "^4.2.0",
+    "openzeppelin-solidity": "^2.4.0",
+    "openzeppelin-test-helpers": "^0.5.1"
   }
 }
